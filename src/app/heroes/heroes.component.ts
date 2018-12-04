@@ -10,7 +10,7 @@ export class HeroesComponent implements OnInit {
   hero: Hero = {
     id: 1,
     name: 'Windstorm'
-  };
+  }; // https://angular.io/tutorial/toh-pt1#create-a-hero-class
 
 
   constructor() { }
